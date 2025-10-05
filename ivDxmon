@@ -815,7 +815,7 @@ textarea {
   color: var(--text-default);
 }
 #app-mount .mentioned__5126c {
-  background: var(--gradient) !important;
+  background: var(--gradient-20) !important;
   border: 2px;
 }
 #app-mount .mentioned__5126c::before {
