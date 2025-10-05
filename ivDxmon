@@ -735,7 +735,7 @@ textarea {
 
 #app-mount .bar__7aaec:not(.mentionsBar__7aaec) {
   background: var(--gradient);
-  border: 2px;
+  border: none;
 }
 #app-mount .mentionsBar__7aaec {
   border: none;
