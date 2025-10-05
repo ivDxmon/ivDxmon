@@ -61,7 +61,7 @@
   --background-modifier-active: rgb(255, 255, 255, 0.07);
   --background-modifier-selected: rgb(255, 255, 255, 0.1);
   --background-modifier-accent: rgb(255, 255, 255, 0.1);
-  --background-mentioned: rgb(250, 166, 26, 0.1);
+  --background-mentioned: rgb(250, 166, 26, 0.05);
   --background-mentioned-hover: rgb(250, 166, 26, 0.08);
   --background-message-hover: rgb(4, 4, 5, 0.07);
   --elevation-stroke: 0 0 0 1px rgb(4, 4, 5, 0.15);
